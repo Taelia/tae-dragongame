@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonGame", "DragonGame\DragonGame\DragonGame.csproj", "{B8BA369B-C96D-4324-8A55-A86E3C904EFF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "DragonGameContent", "DragonGame\DragonGameContent\DragonGameContent.contentproj", "{4B34A3EA-6AAB-47DF-AA1C-794F7D59E8D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8BA369B-C96D-4324-8A55-A86E3C904EFF}.Debug|x86.ActiveCfg = Debug|x86
+		{B8BA369B-C96D-4324-8A55-A86E3C904EFF}.Debug|x86.Build.0 = Debug|x86
+		{B8BA369B-C96D-4324-8A55-A86E3C904EFF}.Release|x86.ActiveCfg = Release|x86
+		{B8BA369B-C96D-4324-8A55-A86E3C904EFF}.Release|x86.Build.0 = Release|x86
+		{4B34A3EA-6AAB-47DF-AA1C-794F7D59E8D6}.Debug|x86.ActiveCfg = Debug|x86
+		{4B34A3EA-6AAB-47DF-AA1C-794F7D59E8D6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
